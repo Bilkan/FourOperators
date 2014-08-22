@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+   android:orientation="vertical"
+  android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+<ImageView android:id="@+id/ImageView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center" android:layout_marginTop="40px" android:layout_marginBottom="15px" android:background="@drawable/number"></ImageView>
+
+
+
+
+<ImageButton android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_marginLeft="15px" android:layout_marginRight="15px" android:layout_marginTop="15px" android:background="@drawable/on" android:id="@+id/ibTeen"></ImageButton>
+<ImageButton android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_marginLeft="15px" android:layout_marginRight="15px" android:layout_marginTop="60px" android:background="@drawable/ellik" android:id="@+id/ibTwenty"></ImageButton>
+<ImageButton android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_marginLeft="15px" android:layout_marginRight="15px" android:layout_marginTop="60px" android:background="@drawable/yuz" android:id="@+id/ibHundred"></ImageButton>
+</LinearLayout>

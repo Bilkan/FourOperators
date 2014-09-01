@@ -9,6 +9,15 @@ UI Language is in Uyghur.
 
 بالىلارنىڭ تۆت قوشۇش، ئېلىش، كۆپەيتىش، بۆلۈش قاتارلىق تۆت ئەمەلنى ئۆگۈنىشىگە ياردەم بىرىدۇ.
 
-* Bilkan Website:[www.bilkan.net](http://www.bilkan.net/) 
+Screenshots
+---------
+![screenshot](screenshots/001.png)
 
-* App on Bilkan Bazar:[Four Operator](http://bazar.bilkan.net/App.aspx?id=15)
+![screenshot](screenshots/002.png)
+
+![screenshot](screenshots/003.png)
+
+Download Link
+---------
+
+* [Download from Bilkan Bazar](http://bazar.bilkan.net/App.aspx?id=15)
